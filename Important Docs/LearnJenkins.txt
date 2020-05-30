@@ -1,0 +1,37 @@
+========================================================
+Steps To Install Jenkins:
+========================================================
+
+1. Download Jenkins.war file from https://updates.jenkins-ci.org/download/war/
+2. Open command prompt in the particular directory and run the command:
+C:\jenkins>java -jar jenkins.war
+3. After initial installation Message will appear like this:
+------------------------------------------------------------
+Jenkins initial setup is required. An admin user has been created and a password generated.
+Please use the following password to proceed to installation:
+
+cdf********************f86a
+
+This may also be found at: C:\Users\*****\.jenkins\secrets\initialAdminPassword
+4. Jenkins runs on port 8080 by default
+	Goto --> http://localhost:8080/
+	Provide the admin password (As system generated)
+5. Then click on Install suggested plugins
+6. All the suggested plugins should start downloading
+7. After all the download is finished the Getting Started page will appear:
+	username: rajarshinandi
+	password: cicd2020
+	Fullname: Rajarshi
+	Email: rajarshinandi@yahoo.com
+8. Start Jenkins
+
+========================================================
+Steps To start using Jenkins:
+========================================================
+We need to install Maven plugin because our project is Maven project
+
+1. Click on Manage Jenkins --> Manage Plugins
+2. Click on Available --> Search for Maven
+3. Select all the Maven relared plugins and select Download and Restart
+4. 
+

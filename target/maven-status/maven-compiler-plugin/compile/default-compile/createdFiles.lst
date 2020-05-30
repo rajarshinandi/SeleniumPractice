@@ -1,0 +1,14 @@
+com\crm\qa\base\DynamicWebTableHandle_Share.class
+com\crm\qa\pages\ContactsPage.class
+com\crm\qa\pages\DealsPage.class
+com\crm\qa\pages\HomePage.class
+com\crm\qa\pages\TasksPage.class
+com\crm\qa\base\Demo.class
+com\crm\qa\pages\LoginPage.class
+com\crm\qa\base\DynamicWebTableHndle.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\base\TestListener.class
+com\crm\qa\util\TestUtil.class
+com\crm\qa\pages\SignUpPage.class
+com\crm\qa\base\SampleFeature.class
+com\crm\qa\pages\NewContactsPage.class
